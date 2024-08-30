@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|c:\\users\\mylto\\onedrive\\documentos\\visual studio 2022\\projects\\webapplogin\\webapplogin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|solutionrelative:webapplogin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|c:\\users\\mylto\\onedrive\\documentos\\visual studio 2022\\projects\\webapplogin\\webapplogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|solutionrelative:webapplogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|c:\\users\\mylto\\onedrive\\documentos\\visual studio 2022\\projects\\webapplogin\\webapplogin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|solutionrelative:webapplogin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|c:\\users\\mylto\\onedrive\\documentos\\visual studio 2022\\projects\\webapplogin\\webapplogin\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|solutionrelative:webapplogin\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|c:\\users\\mylto\\onedrive\\documentos\\visual studio 2022\\projects\\webapplogin\\webapplogin\\webapplogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|solutionrelative:webapplogin\\webapplogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|c:\\users\\mylto\\onedrive\\documentos\\visual studio 2022\\projects\\webapplogin\\webapplogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A85E808-E299-4E7F-8BC1-6D9E11E069CC}|WebAppLogin\\WebAppLogin.csproj|solutionrelative:webapplogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebAppLogin\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebAppLogin\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:32:44.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Program.cs",
+              "RelativeToolTip": "WebAppLogin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:31:53.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppLogin\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAppLogin\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:25:25.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebAppLogin\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebAppLogin\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:23:50.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAppLogin.csproj",
+              "DocumentMoniker": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\WebAppLogin.csproj",
+              "RelativeDocumentMoniker": "WebAppLogin\\WebAppLogin.csproj",
+              "ToolTip": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\WebAppLogin.csproj",
+              "RelativeToolTip": "WebAppLogin\\WebAppLogin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T19:20:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppLogin\\appsettings.json",
+              "ToolTip": "C:\\Users\\mylto\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\WebAppLogin\\WebAppLogin\\appsettings.json",
+              "RelativeToolTip": "WebAppLogin\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T19:08:04.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
